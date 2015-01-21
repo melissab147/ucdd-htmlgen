@@ -1,5 +1,6 @@
 var debug = require('debug')('lib')
 var lib = {}
+//something
 
 lib.generateHeading1 = function(text) {
     return "<h1>" + text + "</h1>";
